@@ -7,7 +7,7 @@ permalink: /
 
 # Plik README
 
-Znowu zmieniona strona
+Strona z MathJaxem.
 
 To jest plik README.
 
