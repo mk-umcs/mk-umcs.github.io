@@ -4,6 +4,8 @@ permalink: /
 
 # Plik README
 
+Zmieniona strona
+
 To jest plik README.
 
 <span id="b">**Tekst pogrubiony**
