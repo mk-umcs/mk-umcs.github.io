@@ -6,7 +6,7 @@ permalink: /
 
 # Plik README
 
-Zmieniona strona
+Znowu zmieniona strona
 
 To jest plik README.
 
