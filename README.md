@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "v. 01"
+title: "v. 02"
 permalink: /
 ---
 
