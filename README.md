@@ -1,13 +1,10 @@
 ---
 layout: page
-title: "Tytuł strony"
+title: "v. 01"
 permalink: /
 ---
-{% mathjax.html %}
 
 # Plik README
-
-Strona z MathJaxem.
 
 To jest plik README.
 
