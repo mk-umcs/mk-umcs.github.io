@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Tytuł strony"
 permalink: /
+---
 
 # Plik README
 
