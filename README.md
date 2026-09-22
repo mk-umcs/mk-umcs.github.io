@@ -1,3 +1,7 @@
+layout: page
+title: "Tytuł strony"
+permalink: /
+
 # Plik README
 
 To jest plik README.
